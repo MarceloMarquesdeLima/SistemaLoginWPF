@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaLoginWPF", "SistemaLoginWPF\SistemaLoginWPF.csproj", "{0B41F0CA-BD92-44B4-9FF7-947A3B0A04A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B41F0CA-BD92-44B4-9FF7-947A3B0A04A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B41F0CA-BD92-44B4-9FF7-947A3B0A04A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B41F0CA-BD92-44B4-9FF7-947A3B0A04A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B41F0CA-BD92-44B4-9FF7-947A3B0A04A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B23DDF56-D2AD-4A33-B28B-67189B6D2592}
+	EndGlobalSection
+EndGlobal
